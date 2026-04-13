@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Sekuya&display=swap');
 
-    body {
-      font-family: Arial, sans-serif;
+
+body {
+      font-family: 'Fjalla One', sans-serif;
       padding: 20px;
-      background: #f4f4f4;
+      color: gray;
+      background: #9ca8ba;
     }
     .container {
       max-width: 500px;
@@ -12,7 +15,7 @@
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
     }
-    select, input {
+    input, select {
       width: 100%;
       margin: 10px 0;
       padding: 8px;
@@ -35,3 +38,6 @@
       padding: 10px;
       border-radius: 8px;
     }
+
+    
+   
